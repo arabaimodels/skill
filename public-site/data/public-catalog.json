@@ -1,0 +1,190 @@
+{
+  "version": 1,
+  "source": "نسخة عرض مختارة من ملف التصدير الأصلي، لا تحتوي على برومبتات أو بيانات إدارة",
+  "skills": [
+    {
+      "slug": "skill-01",
+      "name": "استدعاء البصمة الخطية",
+      "about": "يعمل هذا البوت حصريًا ضمن مجال فن الرسم بالقلم الرصاص والتعبير البصري المرتبط به، مع الالتزام بمحاكاة الأسلوب اليدوي الواقعي من حيث الخط، التظليل، ونسيج الورق. لا يُستخدم لإنشاء محتوى شخصي أو حساس أو مخالف للقيم الفنية، ولا لإنتاج صور رقمية ملوّنة أو مؤثرات حديثة لا تنتمي لمدرسة القلم الرصاص. يلتزم بالحفاظ على معنى الفكرة الأصلية دون تشويه أو مبالغة، ولا ينتج أعمالًا مكررة أو زخرفية مفرطة خارج منطق الرسم الكلاسيكي والتوازن البصري. كما يركّز على الأصالة والبساطة ولا يدّعي محاكاة أسلوب فنان بعينه بشكل مباشر.",
+      "descriptionStatus": "من المصدر الأصلي",
+      "officialUrl": "https://arabaimodels.com/app/bots/pencil-drawing-design",
+      "communityUrl": "https://www.skool.com/zraiee-3956/4e2db7d1?p=78d484d7",
+      "projects": [
+        {
+          "name": "مشروع 1",
+          "images": {
+            "original": "assets/published/32ec827bec59bfb2cea0515d.jpg",
+            "reference": "assets/published/32ec827bec59bfb2cea0515d.jpg",
+            "result": "assets/published/ad2f96462143a02a46488895.png"
+          }
+        },
+        {
+          "name": "مشروع 2",
+          "images": {
+            "original": "assets/published/1de75d1853cef3e8bdb0c6a2.jpg",
+            "reference": "assets/published/1de75d1853cef3e8bdb0c6a2.jpg",
+            "result": "assets/published/af833e8e52ec39b9831e9aef.jpg"
+          }
+        },
+        {
+          "name": "مشروع 4",
+          "images": {
+            "original": "assets/published/a415ca117253ed9e3c0c33c6.jpg",
+            "reference": "assets/published/c7af24d8a85b14b2b60ba823.jpg",
+            "result": "assets/published/2f5058aba17dc34eb6e44804.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "skill-02",
+      "name": "استدعاء الشخصية البديلة",
+      "about": "تصور بصري لإحلال شخصية بديلة داخل مشهد مرجعي، مع مراعاة الوضعية والتعابير والمنظور والحجم واتجاه الإضاءة.",
+      "descriptionStatus": "وصف تحريري مقترح — يحتاج اعتمادًا",
+      "officialUrl": "",
+      "communityUrl": "",
+      "projects": [
+        {
+          "name": "مشروع 1",
+          "images": {
+            "original": "assets/published/1be66565522ba19ba6466643.jpg",
+            "reference": "assets/published/aa3c2ea9b26d9aafe8011f9a.jpg",
+            "result": "assets/published/4bb2aae27427e26be8f13111.jpg"
+          }
+        },
+        {
+          "name": "مشروع 2",
+          "images": {
+            "original": null,
+            "reference": null,
+            "result": null
+          }
+        },
+        {
+          "name": "مشروع 3",
+          "images": {
+            "original": null,
+            "reference": null,
+            "result": null
+          }
+        },
+        {
+          "name": "مشروع 4",
+          "images": {
+            "original": null,
+            "reference": null,
+            "result": null
+          }
+        },
+        {
+          "name": "مشروع 5",
+          "images": {
+            "original": null,
+            "reference": null,
+            "result": null
+          }
+        }
+      ]
+    },
+    {
+      "slug": "skill-03",
+      "name": "استدعاء البصمة الأسلوبية",
+      "about": "استخلاص الخصائص الجمالية من صورة مرجعية، مثل الألوان والملامس والإضاءة والتكوين، وتوظيفها في مشاهد وموضوعات جديدة.",
+      "descriptionStatus": "وصف تحريري مقترح — يحتاج اعتمادًا",
+      "officialUrl": "",
+      "communityUrl": "",
+      "projects": [
+        {
+          "name": "مشروع 1",
+          "images": {
+            "original": "assets/published/a9c7fe7af151a427b6dae3d6.jpg",
+            "reference": "assets/published/aa3c2ea9b26d9aafe8011f9a.jpg",
+            "result": "assets/published/bd2d304e35b1a8394a1a156d.jpg"
+          }
+        },
+        {
+          "name": "مشروع 2",
+          "images": {
+            "original": "assets/published/afe3bbadb44bd8d4d68c50fb.jpg",
+            "reference": "assets/published/aae3e62dfde0a55a464b0375.jpg",
+            "result": "assets/published/9c810b0b1e56aa7be60f0588.jpg"
+          }
+        },
+        {
+          "name": "مشروع 3",
+          "images": {
+            "original": "assets/published/bb567cffcc4c3a126b341193.jpg",
+            "reference": "assets/published/7eff077be82eb621bfffa7e7.png",
+            "result": "assets/published/9dc8c8450b3eb19952da646b.jpg"
+          }
+        },
+        {
+          "name": "مشروع 4",
+          "images": {
+            "original": null,
+            "reference": null,
+            "result": null
+          }
+        },
+        {
+          "name": "مشروع 5",
+          "images": {
+            "original": null,
+            "reference": null,
+            "result": null
+          }
+        }
+      ]
+    },
+    {
+      "slug": "skill-04",
+      "name": "استدعاء الأفكار الإبداعية",
+      "about": "تطوير تصورات فنية متعددة انطلاقًا من فكرة أولية، مع تنويع المعالجات والتكوينات البصرية واستكشاف اتجاهات جديدة.",
+      "descriptionStatus": "وصف تحريري مقترح — يحتاج اعتمادًا",
+      "officialUrl": "",
+      "communityUrl": "",
+      "projects": [
+        {
+          "name": "مشروع 1",
+          "images": {
+            "original": null,
+            "reference": null,
+            "result": "assets/published/e38cb1ef4cfb5bc9b60f17cd.webp"
+          }
+        },
+        {
+          "name": "مشروع 2",
+          "images": {
+            "original": null,
+            "reference": null,
+            "result": null
+          }
+        },
+        {
+          "name": "مشروع 3",
+          "images": {
+            "original": null,
+            "reference": null,
+            "result": null
+          }
+        },
+        {
+          "name": "مشروع 4",
+          "images": {
+            "original": null,
+            "reference": null,
+            "result": null
+          }
+        },
+        {
+          "name": "مشروع 5",
+          "images": {
+            "original": null,
+            "reference": null,
+            "result": null
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "skills": 4,
+  "projects": 18,
+  "image_slots": 22,
+  "image_files": 19,
+  "assets_bytes": 8905796,
+  "policy": "تحتاج الصور إلى مراجعة واعتماد قبل الرفع العام",
+  "usages": [
+    {
+      "skill": "استدعاء البصمة الخطية",
+      "project": "مشروع 1",
+      "stage": "original",
+      "file": "32ec827bec59bfb2cea0515d.jpg"
+    },
+    {
+      "skill": "استدعاء البصمة الخطية",
+      "project": "مشروع 1",
+      "stage": "reference",
+      "file": "32ec827bec59bfb2cea0515d.jpg"
+    },
+    {
+      "skill": "استدعاء البصمة الخطية",
+      "project": "مشروع 1",
+      "stage": "result",
+      "file": "ad2f96462143a02a46488895.png"
+    },
+    {
+      "skill": "استدعاء البصمة الخطية",
+      "project": "مشروع 2",
+      "stage": "original",
+      "file": "1de75d1853cef3e8bdb0c6a2.jpg"
+    },
+    {
+      "skill": "استدعاء البصمة الخطية",
+      "project": "مشروع 2",
+      "stage": "reference",
+      "file": "1de75d1853cef3e8bdb0c6a2.jpg"
+    },
+    {
+      "skill": "استدعاء البصمة الخطية",
+      "project": "مشروع 2",
+      "stage": "result",
+      "file": "af833e8e52ec39b9831e9aef.jpg"
+    },
+    {
+      "skill": "استدعاء البصمة الخطية",
+      "project": "مشروع 4",
+      "stage": "original",
+      "file": "a415ca117253ed9e3c0c33c6.jpg"
+    },
+    {
+      "skill": "استدعاء البصمة الخطية",
+      "project": "مشروع 4",
+      "stage": "reference",
+      "file": "c7af24d8a85b14b2b60ba823.jpg"
+    },
+    {
+      "skill": "استدعاء البصمة الخطية",
+      "project": "مشروع 4",
+      "stage": "result",
+      "file": "2f5058aba17dc34eb6e44804.jpg"
+    },
+    {
+      "skill": "استدعاء الشخصية البديلة",
+      "project": "مشروع 1",
+      "stage": "original",
+      "file": "1be66565522ba19ba6466643.jpg"
+    },
+    {
+      "skill": "استدعاء الشخصية البديلة",
+      "project": "مشروع 1",
+      "stage": "reference",
+      "file": "aa3c2ea9b26d9aafe8011f9a.jpg"
+    },
+    {
+      "skill": "استدعاء الشخصية البديلة",
+      "project": "مشروع 1",
+      "stage": "result",
+      "file": "4bb2aae27427e26be8f13111.jpg"
+    },
+    {
+      "skill": "استدعاء البصمة الأسلوبية",
+      "project": "مشروع 1",
+      "stage": "original",
+      "file": "a9c7fe7af151a427b6dae3d6.jpg"
+    },
+    {
+      "skill": "استدعاء البصمة الأسلوبية",
+      "project": "مشروع 1",
+      "stage": "reference",
+      "file": "aa3c2ea9b26d9aafe8011f9a.jpg"
+    },
+    {
+      "skill": "استدعاء البصمة الأسلوبية",
+      "project": "مشروع 1",
+      "stage": "result",
+      "file": "bd2d304e35b1a8394a1a156d.jpg"
+    },
+    {
+      "skill": "استدعاء البصمة الأسلوبية",
+      "project": "مشروع 2",
+      "stage": "original",
+      "file": "afe3bbadb44bd8d4d68c50fb.jpg"
+    },
+    {
+      "skill": "استدعاء البصمة الأسلوبية",
+      "project": "مشروع 2",
+      "stage": "reference",
+      "file": "aae3e62dfde0a55a464b0375.jpg"
+    },
+    {
+      "skill": "استدعاء البصمة الأسلوبية",
+      "project": "مشروع 2",
+      "stage": "result",
+      "file": "9c810b0b1e56aa7be60f0588.jpg"
+    },
+    {
+      "skill": "استدعاء البصمة الأسلوبية",
+      "project": "مشروع 3",
+      "stage": "original",
+      "file": "bb567cffcc4c3a126b341193.jpg"
+    },
+    {
+      "skill": "استدعاء البصمة الأسلوبية",
+      "project": "مشروع 3",
+      "stage": "reference",
+      "file": "7eff077be82eb621bfffa7e7.png"
+    },
+    {
+      "skill": "استدعاء البصمة الأسلوبية",
+      "project": "مشروع 3",
+      "stage": "result",
+      "file": "9dc8c8450b3eb19952da646b.jpg"
+    },
+    {
+      "skill": "استدعاء الأفكار الإبداعية",
+      "project": "مشروع 1",
+      "stage": "result",
+      "file": "e38cb1ef4cfb5bc9b60f17cd.webp"
+    }
+  ]
+}
